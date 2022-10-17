@@ -26,6 +26,9 @@ body {
     font-size: 1.4rem;
     font-family: var(--primary-font);
     background-color: var(--primary-color-cream);
+}
+
+.content {
     min-height: 100vh;
     display: flex;
     align-items: center;
